@@ -12,8 +12,11 @@ network topology designs, device configurations, and practical implementations c
 The repository is organized by lab modules/activities:
 
 ├── Lab 01/             # Basic Switch & End-Device Configuration
+
 ├── Lab 02/             # VLANs Configuration
+
 └── README.md           # Repository documentation
+
 
 ---
 
