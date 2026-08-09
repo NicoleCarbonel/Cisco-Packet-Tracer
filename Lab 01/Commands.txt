@@ -1,0 +1,63 @@
+# 📝 Lab 01: Assessment #1 — Basic Router & Switch Configuration
+
+## 📌 Overview & Requirements
+* Objective: Establish connectivity across a multi-router network topology.
+* Routing Requirements:
+  1. PC1 must be able to communicate with PC2 and the Server.
+  2. The Server must reply back to requests from both PC1 and PC2.
+
+---
+
+## 🌐 Network Subnets
+| Subnet / Segment | Network Address | Mask |
+| :--- | :--- | :--- |
+| **PC2 LAN (SW1)** | `192.168.1.0/24` | `255.255.255.0` |
+| **PC1 LAN (SW2)** | `192.168.2.0/24` | `255.255.255.0` |
+| **R1 - R2 Link** | `192.168.5.0/30` | `255.255.255.252` |
+| **R2 - R3 Link** | `192.168.3.0/30` | `255.255.255.252` |
+| **R1 - R3 Link** | `192.168.4.0/30` | `255.255.255.252` |
+| **Server LAN (R2)** | `192.168.6.0/24` | `255.255.255.0` |
+
+---
+
+## ⚙️ Configuration Commands Template
+
+### 1. Basic Device & Interface Setup
+```cisco
+enable
+configure terminal
+hostname <Device_Name>
+
+! Configure interface IP address
+interface <interface-id>
+ ip address <ip-address> <subnet-mask>
+ no shutdown
+exit
+
+### 2. Device Security and Access Control
+
+! Enable privileged EXEC password
+enable secret password
+
+! Secure Console Access
+line console 0
+ password password
+ login
+exit
+
+! Secure VTY (Telnet/SSH) Access
+line vty 0 15
+ password password
+ login
+exit
+
+! Encrypt plain text passwords
+service password encryption
+
+! Message of the Day (MOTD) Banner
+banner motd # Authorized Access Only! #
+
+### 3. Save Confiuguration
+
+end
+write memory
