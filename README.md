@@ -17,6 +17,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 04/             # Inter-VLAN Routing
 
+├── Lab 05/             # Configuring STP
+
 └── README.md           # Repository documentation
 
 
