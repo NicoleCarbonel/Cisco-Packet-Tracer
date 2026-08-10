@@ -15,6 +15,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 02/             # VLANs Configuration
 
+├── Lab 04/             # Inter-VLAN Routing
+
 └── README.md           # Repository documentation
 
 
