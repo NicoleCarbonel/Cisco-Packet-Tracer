@@ -19,6 +19,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 05/             # Configuring STP
 
+├── Lab 06/             # EtherChannel
+
 └── README.md           # Repository documentation
 
 
