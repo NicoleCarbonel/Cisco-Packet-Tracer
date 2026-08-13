@@ -21,6 +21,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 06/             # EtherChannel
 
+├── Lab 07/             #Configure DHCPv4
+
 └── README.md           # Repository documentation
 
 
