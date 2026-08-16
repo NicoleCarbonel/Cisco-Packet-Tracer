@@ -23,6 +23,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 07/             #Configure DHCPv4
 
+├── Lab 10/             #Network Security Exploration
+
 └── README.md           # Repository documentation
 
 
