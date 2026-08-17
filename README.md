@@ -25,6 +25,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 10/             #Network Security Exploration
 
+├── Lab 11/             #Port and Switch Security
+
 └── README.md           # Repository documentation
 
 
