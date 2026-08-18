@@ -29,16 +29,17 @@ The repository is organized by lab modules/activities:
 
 └── README.md           # Repository documentation
 
-
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-* **Simulator:** Cisco Packet Tracer
+* **Simulator:** Cisco Packet Tracer (`.pkt` / `.pka` files included)
 * **Core Topics Covered:**
   * Basic Device Configuration (Routers & Switches)
   * IP Addressing & Subnetting (IPv4 / IPv6)
   * VLANs, Trunking (802.1Q), and Inter-VLAN Routing
   * Spanning Tree Protocol (STP) & EtherChannel
   * Dynamic Routing Protocols (OSPF, EIGRP, RIP)
+  * DHCPv4 Configuration
+  * Network, Port, and Switch Security
   * Access Control Lists (ACLs) & NAT
