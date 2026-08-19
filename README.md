@@ -27,6 +27,8 @@ The repository is organized by lab modules/activities:
 
 ├── Lab 11/             #Port and Switch Security
 
+├── Lab 13/             #Configure WLAN
+
 └── README.md           # Repository documentation
 
 ---
