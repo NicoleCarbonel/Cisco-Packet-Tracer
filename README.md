@@ -45,3 +45,4 @@ The repository is organized by lab modules/activities:
   * DHCPv4 Configuration
   * Network, Port, and Switch Security
   * Access Control Lists (ACLs) & NAT
+  * WLAN Configuration
