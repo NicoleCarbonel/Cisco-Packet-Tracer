@@ -11,6 +11,8 @@ network topology designs, device configurations, and practical implementations c
 
 The repository is organized by lab modules/activities:
 
+Computer Network & Security
+
 ├── Lab 01/             # Basic Router & Switch Configuration
 
 ├── Lab 02/             # VLANs Configuration
@@ -28,6 +30,10 @@ The repository is organized by lab modules/activities:
 ├── Lab 11/             #Port and Switch Security
 
 ├── Lab 13/             #Configure WLAN
+
+Entreprise Networking
+
+├── Lab 14/             #add text
 
 └── README.md           # Repository documentation
 
