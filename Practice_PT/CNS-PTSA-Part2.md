@@ -103,11 +103,5 @@ revisiting the WLC portion in Packet Tracer to pin down exactly which check fail
   also where I lost my only points this round, so it's the section I'd
   practice again first.
 
-## Files
-
-- `SRWE_Practice_PTSA_Part2.pkt` — Packet Tracer source file *(add when uploading)*
-- Config excerpts for SW-1, RTR-HQ, and RTR-Branch *(optional: add as separate
-  `.txt` files if you want the raw CLI output alongside this README)*
-
 ---
 *Part of my CCNA v7 (SRWE) coursework, Polytechnic University of the Philippines.*
