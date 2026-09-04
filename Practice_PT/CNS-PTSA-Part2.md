@@ -102,6 +102,3 @@ revisiting the WLC portion in Packet Tracer to pin down exactly which check fail
   server entry, and the WLAN's security/AAA bindings all have to line up. That's
   also where I lost my only points this round, so it's the section I'd
   practice again first.
-
----
-*Part of my CCNA v7 (SRWE) coursework, Polytechnic University of the Philippines.*
