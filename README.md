@@ -29,9 +29,9 @@ Computer Network & Security
 
 ├── Lab 13/             #Configure WLAN
 
-├── Practice_PT/        #CNS-PTSA-Part1 & Part2
-
 ├── Final_PT/           #CNS-Final-PT
+
+├── Practice_PT/        #CNS-PTSA-Part1 & Part2
 
 Entreprise Networking
 
