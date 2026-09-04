@@ -1,5 +1,3 @@
-<img width="1428" height="859" alt="image" src="https://github.com/user-attachments/assets/e8da2d43-e3eb-455c-ad27-6203a281b69c" /># Cisco-Packet-Tracer
-
 # 🌐 Cisco Packet Tracer - Lab Activities
 
 Welcome to my repository for Cisco Packet Tracer laboratory activities! This repository serves as a collection of 
