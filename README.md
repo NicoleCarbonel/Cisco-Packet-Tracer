@@ -1,4 +1,4 @@
-# Cisco-Packet-Tracer
+<img width="1428" height="859" alt="image" src="https://github.com/user-attachments/assets/e8da2d43-e3eb-455c-ad27-6203a281b69c" /># Cisco-Packet-Tracer
 
 # 🌐 Cisco Packet Tracer - Lab Activities
 
@@ -32,6 +32,8 @@ Computer Network & Security
 ├── Lab 13/             #Configure WLAN
 
 ├── Practice_PT/        #CNS-PTSA-Part1 & Part2
+
+├── Final_PT/           #CNS-Final-PT
 
 Entreprise Networking
 
