@@ -113,12 +113,3 @@ direct console connection, the way it would be done on real hardware.
 - Locking down remote access (SSH-only, local auth, RSA key, no Telnet) and
   encrypting stored passwords are cheap, repeatable steps that should be part
   of every device's baseline config, not just assessments.
-
-## Files
-
-- `SRWE_Final_PTSA.pkt` — Packet Tracer source file *(add when uploading)*
-- Config excerpts for R1, S1, and S2 *(optional: add as separate `.txt` files
-  alongside this README if you want the raw CLI output preserved)*
-
----
-*Part of my CCNA v7 (SRWE) coursework, Polytechnic University of the Philippines.*
